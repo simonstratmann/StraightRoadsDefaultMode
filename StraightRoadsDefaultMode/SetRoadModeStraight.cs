@@ -9,7 +9,7 @@ using Game.UI.Tooltip;
 using Unity.Entities;
 using Unity.Jobs;
 
-namespace MoreShortcuts {
+namespace StraightRoadsDefaultMode {
     public partial class ReactToEvents : GameSystemBase {
         
         private NetToolSystem _netToolSystem;

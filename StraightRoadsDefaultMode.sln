@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreShortcuts", "MoreShortcuts\MoreShortcuts.csproj", "{31EC8565-1B2D-4E6A-A2D9-6AD7CF96FCAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StraightRoadsDefaultMode", "StraightRoadsDefaultMode\StraightRoadsDefaultMode.csproj", "{31EC8565-1B2D-4E6A-A2D9-6AD7CF96FCAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

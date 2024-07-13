@@ -3,9 +3,9 @@ using Game;
 using Game.Modding;
 using Game.SceneFlow;
 
-namespace MoreShortcuts {
+namespace StraightRoadsDefaultMode {
     public class Mod : IMod {
-        private static ILog log = LogManager.GetLogger($"{nameof(MoreShortcuts)}.{nameof(Mod)}").SetShowsErrorsInUI(false);
+        private static ILog log = LogManager.GetLogger($"{nameof(StraightRoadsDefaultMode)}.{nameof(Mod)}").SetShowsErrorsInUI(false);
 
 
         public void OnLoad(UpdateSystem updateSystem) {
